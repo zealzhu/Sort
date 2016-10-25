@@ -18,4 +18,7 @@ void heapSort(int * arr);
 //普通冒泡排序
 void bubbleSort(int *arr);
 
+//插入排序
+void quickInsert(int * arr, int p, int r);
+
 #endif // SORT_H_INCLUDED
